@@ -11,7 +11,6 @@
 
                             <div class="col fs-5 text-end"><i class="bi bi-person-plus-fill"></i></div>
                         </div>
-
                     </div>
 
                     <div class="card-body">
