@@ -7,7 +7,7 @@ This application is built using :
     <li><a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons 1.11.1</a></li>
 </ul>
 
-It is just a fresh Laravel installation with integrated Bootstrap 5 and Bootstrap Icons.
+It is just a fresh <b>Laravel</b> installation with integrated <b>Bootstrap 5</b> and <b>Bootstrap Icons</b>.
 You can use this as a starting point to create your own Bootstrap 5 based Laravel applications.
 
 ## Documentation
